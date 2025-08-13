@@ -9,6 +9,9 @@ Comment commencer (3 étapes simples)
 
 Ouvrez un compte VT Markets :
 👉 https://www.vtmarkets.com/trade-now/?utm_source=promo&utm_medium=social&utm_campaign=RAF&utm_term=NA&utm_content=NA&c=kj1I1AXuhT91%2Fb9%2BSwjGRQ%3D%3D
+( En MT5 Uniquement )
+
+Si vous avez des question contacter moi en 1er
 
 Effectuez un dépôt minimum de 200€.
 
@@ -39,6 +42,10 @@ Our bot, developed in Python and connected to MetaTrader 5 (MT5), detects tradin
 How to Get Started (3 Easy Steps)
 Open a VT Markets account:
 👉 https://www.vtmarkets.com/trade-now/?utm_source=promo&utm_medium=social&utm_campaign=RAF&utm_term=NA&utm_content=NA&c=kj1I1AXuhT91%2Fb9%2BSwjGRQ%3D%3D
+
+( MT5 Only )
+
+If you have a question contact me firt
 
 Make a minimum deposit of €200.
 
